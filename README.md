@@ -3,7 +3,7 @@ Studying the properties of CLIP and RuDolph multimodal embeddings distributions
 
 ## Part 1: Embeddings distribution: isotropy, whitening, transforms
 
- ![img](https://lh3.googleusercontent.com/5w9uVi_KZBsIkKebrr8rgWYMpS2VrkQgSAfnjEAHjmzMvNUIGQ8WNliPPp2P9oLjBBezv6qJ7qiCfwwsjoqqKp6nHuoUU7RKx1H1X8iJ09vj0cWEBYlKDcHNH3uwf0iUtzsFn3sE2qv8Q5W-F6SOzg)
+![img](https://lh5.googleusercontent.com/BD_MKVSzcJ0XF_37uDXXnuNJbEXwEBUZ8bXTmDXp_PggHovUUjr5OFRLJv4J1Kadznr9EBC306jldswj20PErB3_vIV2Xqwx1kW3S25fXEYWMGLaF3Am8ZT5iDHsrAtSAv_jyzpalzFB_2L1L6nFMw)
 
 **Main notebooks:**
 
