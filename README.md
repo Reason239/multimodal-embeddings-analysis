@@ -18,7 +18,7 @@ Studying the properties of CLIP and RuDolph multimodal embeddings distributions
 
 **Main notebook:**
 
-* Visualization and distance measuring: [GitHub](https://github.com/Reason239/multimodal-embeddings-analysis/blob/main/multilingual_embeddings/multilingual-clip.ipynb)
+* Visualization and distance measuring: [GitHub](https://github.com/Reason239/multimodal-embeddings-analysis/blob/main/multilingual_embeddings/multilingual_clip.ipynb)
 
 ## Part 3: Style transfer and vector algebra:
 
