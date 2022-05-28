@@ -22,4 +22,10 @@ Studying the properties of CLIP and RuDolph multimodal embeddings distributions
 
 ## Part 3: Style transfer and vector algebra:
 
-Coming soon!
+![img](https://sun9-east.userapi.com/sun9-73/s/v1/ig2/6jZ9O4HZTKqvN7rQgxUj_pTy8shRWG91Txzjig0776O3HLLfOmC_0Bbur-LJK1BIa5Ikebv16UXg33f0l4pcLp1g.jpg?size=536x268&quality=96&type=album)
+
+**Main notebooks:**
+
+* Analyzing the distribution of style-transfered COCO images: [GitHub](https://github.com/Reason239/multimodal-embeddings-analysis/blob/main/clip_style_transfer.ipynb)
+* Performing style trasfer via CLIP latent optimization: [GitHub](https://github.com/Reason239/multimodal-embeddings-analysis/blob/main/Latent_optimization.ipynb)
+
